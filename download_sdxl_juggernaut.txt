@@ -1,0 +1,18 @@
+Model Download readme.txt
+
+download from huggingface:
+
+https://huggingface.co/RunDiffusion/Juggernaut-XL-Lightning/blob/main/Juggernaut_RunDiffusionPhoto2_Lightning_4Steps.safetensors
+
+
+download from civitai:
+
+https://civitai.com/models/133005?modelVersionId=920957
+
+
+
+please rename to:
+
+sdxl_juggernaut_4step.safetensors
+
+and copy to same directory as python .py file
